@@ -1,6 +1,6 @@
-package week1.exercises;
+package week1.exercise;
 
-public class FirstJavaClass {
+public class MyFirstJavaClass {
     public static void main(String[] args) {
         System.out.println("Preslava");
     }

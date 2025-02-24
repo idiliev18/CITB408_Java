@@ -29,6 +29,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Week_01/Exercise" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Week_01/Homework" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Semester" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Week_01" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
