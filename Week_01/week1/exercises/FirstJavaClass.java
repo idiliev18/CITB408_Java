@@ -1,4 +1,4 @@
-package week1.exercise;
+package week1.exercises;
 
 public class FirstJavaClass {
     public static void main(String[] args) {
